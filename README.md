@@ -1,4 +1,4 @@
-# 💰 Expense Tracker API
+# 💰 Control de Gastos
 
 API REST desarrollada con **Spring Boot** para el registro y control de gastos personales.  
 Permite gestionar gastos diarios, categorizarlos, aplicar filtros y generar reportes básicos para análisis financiero.
