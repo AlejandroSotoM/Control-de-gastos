@@ -15,6 +15,8 @@ public class ExpenseController {
         this.expenseService = expenseService;
     }
 
+    //End Points
+
     //1. CREAR GASTO - POST /expenses
 
     //2. OBTENER TODOS LOS GASTOS - GET /expenses
