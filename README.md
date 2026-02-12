@@ -14,7 +14,7 @@ Permite gestionar gastos diarios, categorizarlos, aplicar filtros y generar repo
 - Bean Validation
 - Hibernate
 - Maven
-- H2 / MySQL
+- MySQL
 
 ---
 
